@@ -2,7 +2,7 @@ pipeline {
     agent any
     
      tools {
-        maven 'M3'
+        maven 'maven_3_6_3'
         
     }
 
